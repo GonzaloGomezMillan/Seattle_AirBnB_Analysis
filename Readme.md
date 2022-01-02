@@ -12,8 +12,8 @@ Several quick start options are available:
 ## **Files description**
 
 - **analysis_seattle_airbnb_def.ipynb**: Jupyter Notebook where you can consult  the code used to perform the analysis.
-- **calender_seattle.csv**: CSV file with the information of the daily price of each house and its availability
-- **listing_seattle.csv**: This CSV file contains information about each of the houses of AirBnB in Seattle. This information is related to the house's name, a summary of the house, the neighbourhood, information about the host, house's location, the offered service, house type, prices, conditions of the renting, review scores and more information
+- **calender_seattle.csv**(ZIP compressed): CSV file with the information of the daily price of each house and its availability
+- **listing_seattle.csv**(ZIP compressed): This CSV file contains information about each of the houses of AirBnB in Seattle. This information is related to the house's name, a summary of the house, the neighbourhood, information about the host, house's location, the offered service, house type, prices, conditions of the renting, review scores and more information
 
 
 ## **Interaction with the project**
