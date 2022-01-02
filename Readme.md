@@ -1,9 +1,7 @@
 # **Is it possible to stay in AirBnB's top-rated homes or in Seattle's best neighborhoods without spending big bucks?**
 
 ## **Project motivation**
-
 This analysis has been carried out using a Kaggle dataset with the objective of understanding how AirBnb works in Seattle and with the idea of showing that, due to the pricing strategies of each of the hosts, a person can stay in the best rated homes on AirBnB without making a large outlay.
----
 
 ## **Installations**
 
