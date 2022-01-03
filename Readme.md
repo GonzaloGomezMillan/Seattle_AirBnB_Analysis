@@ -22,6 +22,7 @@ The best way to interact with this analysis is to download the [CSV files](https
 
 ## **Licensing, Authors, Acknowledgements, etc.**
 **Author**: The author of this analysis is Gonzalo Gomez Millan
+
 **Acknowledgments**: Also noteworthy is the work of Udacity in promoting the performance of this analysis as one of the projects in order to pass the Data Scientist Nanodegree.
 
 
